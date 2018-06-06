@@ -1,0 +1,22 @@
+{
+	"post": [
+			{"id" : 1,
+			"title" : "Dragon Ball",
+			"author" : "Akira Toriyama"
+			}
+	],
+
+	"comments" : [
+			{
+				"id" : 1,
+				"body" : "vamos a buscar! las esferas del dragon!",
+				"postid" : "5"
+			}
+	],
+
+	"profile" : [
+			{
+				"name" : "Saitama"
+			}
+	]
+}
